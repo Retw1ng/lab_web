@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-course-1",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@pbe/react-yandex-maps": "^1.2.5",
+    "@react-google-maps/api": "^2.19.3",
+    "axios": "^1.6.8",
+    "formidable": "2.1.2",
+    "next": "13.0.4",
+    "prop-types": "^15.8.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-modal": "^3.16.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.30",
+    "@types/react": "18.0.26",
+    "typescript": "4.9.4"
+  }
+}
